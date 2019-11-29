@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>359022724702-a2oouf09h87amoi5pj3ppnstqjvsisjo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.359022724702-a2oouf09h87amoi5pj3ppnstqjvsisjo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZGYVUtVUo0O9E5z8bkZ-TkA7ZbSXOg1U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>359022724702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yenifer1.lab13</string>
+	<key>PROJECT_ID</key>
+	<string>instacat-15f7a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instacat-15f7a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:359022724702:ios:cd78c40ed43e892ef756cf</string>
+	<key>DATABASE_URL</key>
+	<string>https://instacat-15f7a.firebaseio.com</string>
+</dict>
+</plist>
